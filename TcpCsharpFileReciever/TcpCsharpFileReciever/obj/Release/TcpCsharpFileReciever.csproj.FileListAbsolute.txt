@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Release\TcpCsharpFileReciever.exe.config
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Release\TcpCsharpFileReciever.exe
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Release\TcpCsharpFileReciever.pdb
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Release\TcpCsharpFileReciever.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Release\TcpCsharpFileReciever.exe
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Release\TcpCsharpFileReciever.pdb
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Release\TcpCsharpFileReciever.csprojAssemblyReference.cache
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Release\TcpCsharpFileReciever.exe.config
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Release\TcpCsharpFileReciever.exe
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Release\TcpCsharpFileReciever.pdb
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Release\TcpCsharpFileReciever.csprojAssemblyReference.cache
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Release\TcpCsharpFileReciever.csproj.CoreCompileInputs.cache
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Release\TcpCsharpFileReciever.exe
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Release\TcpCsharpFileReciever.pdb

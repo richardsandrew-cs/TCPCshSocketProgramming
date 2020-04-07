@@ -1,0 +1,21 @@
+C:\Users\andre\AppData\Local\Temporary Projects\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.exe.config
+C:\Users\andre\AppData\Local\Temporary Projects\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.exe
+C:\Users\andre\AppData\Local\Temporary Projects\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.pdb
+C:\Users\andre\AppData\Local\Temporary Projects\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.csprojAssemblyReference.cache
+C:\Users\andre\AppData\Local\Temporary Projects\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.csproj.CoreCompileInputs.cache
+C:\Users\andre\AppData\Local\Temporary Projects\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.exe
+C:\Users\andre\AppData\Local\Temporary Projects\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.pdb
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.exe.config
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.exe
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.pdb
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.exe
+C:\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.pdb
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.exe.config
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.exe
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\bin\Debug\TcpCsharpFileReciever.pdb
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.csprojAssemblyReference.cache
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.csproj.CoreCompileInputs.cache
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.exe
+\\DESKTOP-5SQONE3\Users\andre\source\repos\TcpCsharpFileReciever\TcpCsharpFileReciever\obj\Debug\TcpCsharpFileReciever.pdb

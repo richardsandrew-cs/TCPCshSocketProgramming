@@ -1,0 +1,1 @@
+yyyyMMddhhmmss hash errors total        avg time

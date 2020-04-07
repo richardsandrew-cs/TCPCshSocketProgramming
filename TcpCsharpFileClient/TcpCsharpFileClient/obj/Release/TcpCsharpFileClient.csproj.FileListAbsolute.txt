@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\bin\Release\TcpCsharpFileClient.exe.config
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\bin\Release\TcpCsharpFileClient.exe
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\bin\Release\TcpCsharpFileClient.pdb
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\obj\Release\TcpCsharpFileClient.Properties.Resources.resources
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\obj\Release\TcpCsharpFileClient.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\obj\Release\TcpCsharpFileClient.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\obj\Release\TcpCsharpFileClient.exe
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\obj\Release\TcpCsharpFileClient.pdb
+C:\Users\andre\source\repos\TcpCsharpFileClient\TcpCsharpFileClient\obj\Release\TcpCsharpFileClient.csprojAssemblyReference.cache
